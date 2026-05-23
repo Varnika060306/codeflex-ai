@@ -1,6 +1,6 @@
 # CodeFlex AI 🤖
 
-A voice-powered AI fitness trainer built with Next.js 14, Clerk Auth, Google Gemini, and Vapi.
+A voice-powered AI fitness trainer built with Next.js 14, Clerk Auth, Groq , and Vapi.
 
 ## Features
 - 🎙️ Voice AI onboarding via Vapi
