@@ -10,4 +10,4 @@ A voice-powered AI fitness trainer built with Next.js 14, Clerk Auth, Groq , and
 - ⚡ Cyberpunk UI with Tailwind CSS
 
 ## Tech Stack
-Next.js 14 · TypeScript · Tailwind CSS · Clerk · Google Gemini API · Vapi
+Next.js 14 · TypeScript · Tailwind CSS · Clerk · Groq · Vapi
